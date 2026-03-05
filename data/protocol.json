@@ -1,0 +1,464 @@
+{
+  "phases": {
+    "Phase I": {
+      "phase_name": "Phase I – Immediate Post-Op",
+      "week_range": "0–3 weeks",
+      "week_start": 0,
+      "week_end": 3,
+      "goals": [
+        "Protect surgical repair",
+        "Manage pain and swelling",
+        "Prevent DVT",
+        "Maintain hip and core strength",
+        "Patient education on precautions"
+      ],
+      "weight_bearing_status": "Non-weight bearing (NWB) with crutches and Achilles boot",
+      "mobility_exercises": [
+        "Ankle pumps (gentle plantarflexion only within boot)",
+        "Toe curls within boot",
+        "Seated knee flexion and extension"
+      ],
+      "strengthening_exercises": [
+        "Quad sets – 3×10 reps",
+        "Straight leg raises – 3×10 reps",
+        "Hip abduction in sidelying – 3×10 reps",
+        "Hip extension in prone – 3×10 reps",
+        "Core bracing and dead bug – 3×10 reps",
+        "Upper body ergometer – 10–15 min"
+      ],
+      "balance_training": [],
+      "cardio_training": [
+        "Upper body ergometer – 10–15 min"
+      ],
+      "restrictions": [
+        "No active dorsiflexion",
+        "No weight bearing",
+        "No stretching of Achilles",
+        "Keep boot on at all times",
+        "Elevate limb when resting"
+      ],
+      "progression_criteria": [
+        "Pain ≤ 5/10 at rest",
+        "Minimal swelling",
+        "Good quad activation",
+        "Independent with crutch ambulation",
+        "Wound healing satisfactory"
+      ]
+    },
+    "Phase II": {
+      "phase_name": "Phase II – Intermediate Post-Op",
+      "week_range": "4–6 weeks",
+      "week_start": 4,
+      "week_end": 6,
+      "goals": [
+        "Reduce pain and swelling",
+        "Begin restoring ankle plantar flexion ROM",
+        "Normalize gait pattern in boot",
+        "Progress weight bearing"
+      ],
+      "weight_bearing_status": "Week 4: partial weight bearing (PWB); Week 5: remove first wedge; Week 6: remove second wedge",
+      "mobility_exercises": [
+        "Ankle pumps – active plantarflexion and gentle dorsiflexion",
+        "Ankle circles – clockwise and counterclockwise",
+        "Seated ankle inversion/eversion with band (light)",
+        "Towel scrunches for foot intrinsics"
+      ],
+      "strengthening_exercises": [
+        "Seated heel raises (bilateral) – 3×10",
+        "Theraband plantarflexion – 3×15",
+        "Leg press (bilateral, light) – 3×10",
+        "Hip strengthening continued – 3×10",
+        "Core strengthening progression"
+      ],
+      "balance_training": [
+        "Seated weight shifting",
+        "Standing bilateral balance (in boot)"
+      ],
+      "cardio_training": [
+        "Upper body ergometer – 15 min",
+        "Stationary bike (boot on, no resistance) – 10 min if tolerated"
+      ],
+      "restrictions": [
+        "No aggressive dorsiflexion stretching",
+        "No running or impact activities",
+        "Continue wearing boot for ambulation"
+      ],
+      "progression_criteria": [
+        "Pain < 3/10",
+        "Minimal swelling after activity",
+        "Dorsiflexion to neutral (0°)",
+        "Independent PWB gait in boot",
+        "Good tolerance of wedge removal"
+      ]
+    },
+    "Phase III": {
+      "phase_name": "Phase III – Late Post-Op",
+      "week_range": "7–8 weeks",
+      "week_start": 7,
+      "week_end": 8,
+      "goals": [
+        "Restore full ankle ROM",
+        "Promote correct gait mechanics in boot",
+        "Progress closed-chain strengthening"
+      ],
+      "weight_bearing_status": "Full weight bearing (FWB) in boot",
+      "mobility_exercises": [
+        "Active ankle dorsiflexion – gentle stretch",
+        "Seated ankle ROM in all planes",
+        "Calf stretching on incline board (gentle)",
+        "Joint mobilisations if indicated"
+      ],
+      "strengthening_exercises": [
+        "Resistance band ankle exercises – 4 directions – 3×15",
+        "Bilateral standing calf raises – 3×15",
+        "Leg press (progressive load) – 3×10",
+        "Bridge variations – 3×12",
+        "Step-ups (low height) – 3×10"
+      ],
+      "balance_training": [
+        "Double-leg stance on foam pad – 3×30 sec",
+        "Weight shifting exercises bilateral"
+      ],
+      "cardio_training": [
+        "Stationary bike (no boot) – 15 min",
+        "Aqua walking if available"
+      ],
+      "restrictions": [
+        "No running or jumping",
+        "No high-impact activities",
+        "Continue boot for outdoor ambulation"
+      ],
+      "progression_criteria": [
+        "No swelling after exercise",
+        "Ankle DF ≥ 5° beyond neutral",
+        "Pain-free bilateral calf raises – 3×15",
+        "Normal gait pattern in boot"
+      ]
+    },
+    "Phase IV": {
+      "phase_name": "Phase IV – Transitional (Early)",
+      "week_range": "9–10 weeks",
+      "week_start": 9,
+      "week_end": 10,
+      "goals": [
+        "Transition from boot to sneaker with heel lift",
+        "Normalize gait in sneaker",
+        "Progress calf strengthening safely"
+      ],
+      "weight_bearing_status": "Full weight bearing – transition to sneaker with heel lift",
+      "mobility_exercises": [
+        "Standing calf stretch – gastrocnemius and soleus",
+        "Ankle dorsiflexion mobilisation",
+        "Foam rolling calf complex"
+      ],
+      "strengthening_exercises": [
+        "Standing bilateral calf raises – 3×15 progressing to single leg",
+        "Leg press – progressive load – 3×12",
+        "Seated calf raise machine – 3×12",
+        "Balance board bilateral squats – 3×10",
+        "Step-ups – increased height – 3×10"
+      ],
+      "balance_training": [
+        "Single-leg stance on firm surface – 3×30 sec",
+        "Balance board – bilateral – 3×30 sec"
+      ],
+      "cardio_training": [
+        "Stationary bike – 20 min",
+        "Elliptical – low resistance – 15 min"
+      ],
+      "restrictions": [
+        "No running or jumping",
+        "No rapid direction changes",
+        "Avoid uneven terrain without support"
+      ],
+      "progression_criteria": [
+        "Normal gait pattern in sneaker",
+        "Pain-free single-leg calf raises (started)",
+        "No post-activity swelling",
+        "Full ankle ROM symmetrical to contralateral"
+      ]
+    },
+    "Phase V": {
+      "phase_name": "Phase V – Transitional (Late)",
+      "week_range": "11–12 weeks",
+      "week_start": 11,
+      "week_end": 12,
+      "goals": [
+        "Wean heel lift",
+        "Maintain full ROM",
+        "Continue strength progression",
+        "Introduce light proprioceptive challenges"
+      ],
+      "weight_bearing_status": "Full weight bearing – wean heel lift by end of phase",
+      "mobility_exercises": [
+        "Continued calf stretching programme",
+        "Ankle mobilisations as needed",
+        "Self-myofascial release – calf and plantar fascia"
+      ],
+      "strengthening_exercises": [
+        "Single-leg calf raises – 3×10 progressing",
+        "Single-leg leg press – 3×10",
+        "Romanian deadlift – 3×10",
+        "Lateral band walks – 3×15",
+        "Step-down eccentrics – 3×10"
+      ],
+      "balance_training": [
+        "Single-leg stance on foam – 3×30 sec",
+        "Single-leg stance with perturbations – 3×30 sec",
+        "BOSU ball bilateral standing – 3×30 sec"
+      ],
+      "cardio_training": [
+        "Stationary bike – 20–25 min",
+        "Elliptical – 20 min",
+        "Swimming – kicking permitted if pain-free"
+      ],
+      "restrictions": [
+        "No plyometrics yet",
+        "No running yet",
+        "No sport-specific drills"
+      ],
+      "progression_criteria": [
+        "Full ROM during calf raises",
+        "25 bilateral calf raises pain-free",
+        "No swelling with 30 min walking",
+        "Good single-leg balance ≥ 30 seconds"
+      ]
+    },
+    "Phase VI": {
+      "phase_name": "Phase VI – Advanced Rehabilitation",
+      "week_range": "3–6 months",
+      "week_start": 13,
+      "week_end": 24,
+      "goals": [
+        "Achieve calf strength symmetry",
+        "Introduce plyometric loading",
+        "Begin return-to-run programme when criteria met",
+        "Sport-specific conditioning"
+      ],
+      "weight_bearing_status": "Full unrestricted weight bearing",
+      "mobility_exercises": [
+        "Dynamic warm-up routine",
+        "Calf stretching pre and post activity",
+        "Ankle mobility drills"
+      ],
+      "strengthening_exercises": [
+        "Heavy single-leg calf raises – 4×8–12",
+        "Barbell squats – 3×10",
+        "Walking lunges – 3×12 per leg",
+        "Single-leg deadlift – 3×10",
+        "Seated and standing calf raise machine – 4×10",
+        "Leg curl – 3×10"
+      ],
+      "balance_training": [
+        "Single-leg BOSU stance – 3×30 sec",
+        "Single-leg hop and hold – 3×5",
+        "Y-balance test practice"
+      ],
+      "cardio_training": [
+        "Return-to-run programme (if criteria met)",
+        "Cycling – 30 min",
+        "Swimming – full strokes",
+        "Elliptical – 30 min"
+      ],
+      "restrictions": [
+        "No competitive sport until Phase VII criteria met",
+        "Running only with programme clearance",
+        "Progress plyometrics gradually"
+      ],
+      "progression_criteria": [
+        "Single-leg heel rise ≥ 25 reps",
+        "Calf raise endurance within 10% of uninvolved side",
+        "LSI ≥ 80% on strength tests",
+        "Successful return-to-run programme completion",
+        "No reactive swelling or pain"
+      ]
+    },
+    "Phase VII": {
+      "phase_name": "Phase VII – Return to Sport",
+      "week_range": "6+ months",
+      "week_start": 25,
+      "week_end": 999,
+      "goals": [
+        "Full return to sport",
+        "Sport-specific training",
+        "Achieve functional symmetry",
+        "Psychological readiness for sport"
+      ],
+      "weight_bearing_status": "Full unrestricted – normal activity",
+      "mobility_exercises": [
+        "Dynamic warm-up",
+        "Sport-specific mobility drills"
+      ],
+      "strengthening_exercises": [
+        "Sport-specific strength programme",
+        "Plyometric programme – full",
+        "Agility drills – full complexity",
+        "Power training – cleans, jump squats"
+      ],
+      "balance_training": [
+        "Sport-specific reactive balance drills",
+        "Single-leg landing drills"
+      ],
+      "cardio_training": [
+        "Full running programme",
+        "Sport-specific conditioning",
+        "Interval training"
+      ],
+      "restrictions": [
+        "Gradual return to competitive play",
+        "Monitor for any regression in symptoms"
+      ],
+      "progression_criteria": [
+        "LSI ≥ 90% on all functional tests",
+        "Single-leg hop test ≥ 90% LSI",
+        "Triple hop test ≥ 90% LSI",
+        "Crossover hop test ≥ 90% LSI",
+        "Y-balance composite score ≥ 90% LSI",
+        "Single-leg press 1RM ≥ 90% LSI",
+        "Psychological readiness (ACL-RSI adapted) ≥ 70%",
+        "Medical clearance from surgeon",
+        "Completion of return-to-run programme",
+        "No pain or swelling with sport-specific drills"
+      ]
+    }
+  },
+  "return_to_run_programme": {
+    "prerequisites": [
+      "LSI ≥ 80% on calf raise endurance",
+      "25 single-leg calf raises pain-free",
+      "No swelling with 30 min continuous walking",
+      "Pain ≤ 2/10 during and after activity",
+      "Surgeon or physio clearance"
+    ],
+    "phase_1_walk_jog": [
+      {
+        "week": 1,
+        "description": "Walk 5 min / Jog 1 min – Repeat 5 times",
+        "walk_min": 5,
+        "jog_min": 1,
+        "repetitions": 5,
+        "sessions_per_week": 3
+      },
+      {
+        "week": 2,
+        "description": "Walk 4 min / Jog 2 min – Repeat 5 times",
+        "walk_min": 4,
+        "jog_min": 2,
+        "repetitions": 5,
+        "sessions_per_week": 3
+      },
+      {
+        "week": 3,
+        "description": "Walk 3 min / Jog 3 min – Repeat 5 times",
+        "walk_min": 3,
+        "jog_min": 3,
+        "repetitions": 5,
+        "sessions_per_week": 3
+      },
+      {
+        "week": 4,
+        "description": "Walk 2 min / Jog 4 min – Repeat 5 times",
+        "walk_min": 2,
+        "jog_min": 4,
+        "repetitions": 5,
+        "sessions_per_week": 3
+      },
+      {
+        "week": 5,
+        "description": "Walk 1 min / Jog 5 min – Repeat 5 times",
+        "walk_min": 1,
+        "jog_min": 5,
+        "repetitions": 5,
+        "sessions_per_week": 3
+      }
+    ],
+    "phase_2_running": [
+      {
+        "week": 6,
+        "description": "Continuous jog – 15 min",
+        "duration_min": 15,
+        "sessions_per_week": 3
+      },
+      {
+        "week": 7,
+        "description": "Continuous jog – 20 min",
+        "duration_min": 20,
+        "sessions_per_week": 3
+      },
+      {
+        "week": 8,
+        "description": "Continuous run – 20 min with pace variation",
+        "duration_min": 20,
+        "sessions_per_week": 3
+      },
+      {
+        "week": 9,
+        "description": "Continuous run – 25 min",
+        "duration_min": 25,
+        "sessions_per_week": 3
+      },
+      {
+        "week": 10,
+        "description": "Continuous run – 25 min with intervals",
+        "duration_min": 25,
+        "sessions_per_week": 4
+      },
+      {
+        "week": 11,
+        "description": "Continuous run – 30 min",
+        "duration_min": 30,
+        "sessions_per_week": 4
+      },
+      {
+        "week": 12,
+        "description": "Running with direction changes – 30 min",
+        "duration_min": 30,
+        "sessions_per_week": 4
+      },
+      {
+        "week": 13,
+        "description": "Sport-specific running – 30+ min",
+        "duration_min": 30,
+        "sessions_per_week": 4
+      }
+    ]
+  },
+  "agility_and_plyometrics": {
+    "phase_1_agility": {
+      "title": "Agility Drills – Phase 1",
+      "prerequisites": [
+        "Completed return-to-run Phase 1",
+        "No pain during jogging",
+        "No reactive swelling"
+      ],
+      "drills": [
+        {"name": "Forward run", "sets": 3, "distance_m": 20, "rest_sec": 60},
+        {"name": "Backward run", "sets": 3, "distance_m": 20, "rest_sec": 60},
+        {"name": "Figure-8 run", "sets": 3, "distance_m": 20, "rest_sec": 90},
+        {"name": "Circle run (clockwise and counterclockwise)", "sets": 2, "distance_m": 15, "rest_sec": 60},
+        {"name": "Ladder drills – two feet in", "sets": 3, "distance_m": 10, "rest_sec": 60},
+        {"name": "Ladder drills – lateral shuffle", "sets": 3, "distance_m": 10, "rest_sec": 60},
+        {"name": "Lateral shuffles", "sets": 3, "distance_m": 20, "rest_sec": 60},
+        {"name": "Carioca / grapevine", "sets": 3, "distance_m": 20, "rest_sec": 60}
+      ]
+    },
+    "phase_2_plyometrics": {
+      "title": "Plyometric Training – Phase 2",
+      "prerequisites": [
+        "Completed agility Phase 1",
+        "LSI ≥ 85% on hop tests",
+        "No pain or swelling"
+      ],
+      "drills": [
+        {"name": "Box jumps (low box 15–20 cm)", "sets": 3, "reps": 8},
+        {"name": "Broad jumps", "sets": 3, "reps": 6},
+        {"name": "Tuck jumps", "sets": 3, "reps": 6},
+        {"name": "Single-leg hops for distance", "sets": 3, "reps": 5},
+        {"name": "Single-leg hops for height", "sets": 3, "reps": 5},
+        {"name": "Lateral bounding", "sets": 3, "reps": 6},
+        {"name": "Depth jumps (from 20 cm box)", "sets": 3, "reps": 5},
+        {"name": "Skipping drills", "sets": 3, "distance_m": 20}
+      ]
+    }
+  }
+}
